@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction"
-author: "Student Name"
+author: "Lauren Xu"
 output: pdf_document
 ---
 
@@ -22,7 +22,7 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I have no any experience with R. But I trained some Python skills in Energy Modeling class.
 
 2. Are there any components of the course about which you feel confident?
 
