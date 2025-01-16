@@ -26,11 +26,11 @@ Enter answers to the questions just below the >Answer: prompt.
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I feel confident working with basic R syntax, data frames.
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: I feel apprehensive about debugging errors and handling messy real-world datasets
 
 
 ## 2) GitHub
